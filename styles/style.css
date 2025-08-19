@@ -37,7 +37,7 @@
   height: 105px;
 }
 
-.address{
+.address {
   display: flex;
   flex-direction: column;
 	margin-bottom: 5px;
@@ -284,7 +284,7 @@
   margin: 0 50px;
 }
 
-.footer__menu{
+.footer__menu {
   justify-self: center;
 }
 
@@ -299,7 +299,7 @@
   text-decoration: none;
 }
 
-.footer__social-list{
+.footer__social-list {
   display: flex;
   justify-content: space-between;
   width: 240px;
